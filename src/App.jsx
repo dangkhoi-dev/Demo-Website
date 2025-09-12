@@ -12,7 +12,7 @@ import DemoPage from './pages/Demo';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Demo-Website">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
