@@ -141,7 +141,7 @@ h2::after {
 }
 
 p { 
-  color: var(--text-secondary); 
+  color: white; 
   margin-bottom: 1rem;
   font-size: 1.1rem;
   line-height: 1.8;
@@ -1034,6 +1034,7 @@ p {
   margin-top: 1rem;
   font-size: 1rem;
   font-weight: 400;
+  color: white
 }
 
 .result-details p {
